@@ -5,6 +5,7 @@ import sys
 def main(local_argv):
     n = int(local_argv[1])
     print(sequences.fibonacci(n)[-1])
+    return(sequences.fibonacci(n)[-1])
 
 if __name__ == "__main__":
     main(sys.argv)
