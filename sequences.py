@@ -12,5 +12,9 @@ def fibonacci(n):
         (n0, n1) = (n1, n0+n1)
     return fib_list
 
-# print(fibonacci(10))
-# print(fibonacci('a'))
+def main():
+    print(fibonacci(10))
+    print(fibonacci('a'))
+    
+if __name__ == "__main__":
+    main()
