@@ -1,6 +1,6 @@
 # CS510 CW 3
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Logan Gantner, Tim Frenzel, Atabak Pouya**
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-03-logan_tim_atabak.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-03-logan_tim_atabak)
 
